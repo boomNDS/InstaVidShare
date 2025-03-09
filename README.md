@@ -6,5 +6,5 @@ This projects only make with AI [Bolt](https://bolt.new)
 
 # Design
 <p align="center">
-  <img width="300" height="500" src="public/images/design.png">
+  <img width="400" height="100%" src="public/images/design.png">
 </p>
